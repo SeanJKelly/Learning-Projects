@@ -8,5 +8,5 @@ It currently hosts the following features:
      (Even non-eqaul side lengths)
      
 If you happen to see anything that you think could of been
-done better please feel free to tell me
+done better please feel free to tell me 
 
